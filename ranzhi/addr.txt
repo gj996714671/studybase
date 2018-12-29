@@ -1,1 +1,3 @@
 http://localhost/ranzhi/www/sys/my-order.html
+http://localhost/ranzhi/www/sys/user-login.html
+http://localhost/ranzhi/www/sys/install.php
